@@ -5,7 +5,7 @@
   "SOURCE_STATION": null,
   "BOARDING_STATION": "PTKC",
   "DESTINATION_STATION": "NDLS",
-  "TATKAL": true0,
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
